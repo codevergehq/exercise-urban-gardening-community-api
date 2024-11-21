@@ -1,10 +1,5 @@
 # Exercise: Urban Gardening Community API
 
-Created by: Jani Ojala
-Created time: November 20, 2024 10:24 AM
-AI summary: The document outlines an exercise to create an API for an Urban Gardening Community, focusing on building a MongoDB schema, implementing CRUD operations, and handling HTTP requests using Express.js. It includes detailed instructions for defining a Garden model, seeding the database, and creating routes for listing, creating, updating, and deleting gardens, along with bonus challenges for additional functionality.
-Tasks: Exercise: Urban Gardening Community API (https://www.notion.so/Exercise-Urban-Gardening-Community-API-14455daaaeb0802b9d70d26917bec387?pvs=21)
-
 ## **Learning Goals**
 
 Upon completing this exercise, you will be able to:
